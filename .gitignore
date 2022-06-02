@@ -10,3 +10,4 @@ Archive/
 .pylintrc
 sandbox/
 Code/error_log.out
+Contract/
