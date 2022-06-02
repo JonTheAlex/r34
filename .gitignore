@@ -1,0 +1,12 @@
+.DS_Store
+*.swp
+Experiments/
+temp_file.py
+.vscode/
+__pycache__/
+r34_jon/
+Archive/
+.vscode/
+.pylintrc
+sandbox/
+Code/error_log.out
